@@ -1,2 +1,4 @@
-# daily_code_problems_java
-Each file solves a problem provided by the "Daily Coding Problem" online service and my own solution.
+# Solving Daily Coding Problems
+This is a repo containing all of my solutions to problems provided by [Daily Coding Problems](https://www.dailycodingproblem.com/).
+
+Each file contains one problem and the associated solution (or best attempt at a solution).
